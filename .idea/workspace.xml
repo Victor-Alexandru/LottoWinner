@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/main.py" line="2" />
+    <bookmark url="file://$PROJECT_DIR$/main.py" line="4" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa0e4008-f611-408b-af9b-7941ec236dfc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/garbage_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/f1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/f2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/f3.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +23,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="22" column="37" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="37" />
+            <state relative-caret-position="585">
+              <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/garbage_code.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -27,20 +41,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/f1.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2774" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/f2.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3488" />
+            <state>
+              <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
+            </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/f3.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="9" selection-start-column="3" selection-end-column="9" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -52,12 +65,19 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>6, 1</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/f1.txt" />
+        <option value="$PROJECT_DIR$/garbage_code.py" />
         <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
@@ -115,12 +135,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561218707156</updated>
-      <workItem from="1561218708607" duration="2122000" />
+      <workItem from="1561218708607" duration="6248000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2122000" />
+    <option name="totallyTimeSpent" value="6248000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -153,23 +173,38 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/f1.txt">
+    <entry file="file://$PROJECT_DIR$/f2.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2774" />
+        <state relative-caret-position="-2584">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="25" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/f3.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/f2.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3488" />
+        <state>
+          <caret column="9" selection-start-column="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/f1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/garbage_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="22" column="37" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="37" />
+        <state relative-caret-position="585">
+          <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
         </state>
       </provider>
     </entry>
